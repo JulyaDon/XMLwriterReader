@@ -1,0 +1,7 @@
+<object-stream>
+  <java.lang.Class>
+    <videoSource>some/path</videoSource>
+    <videoDestination>some/path</videoDestination>
+    <parameters>first second third</parameters>
+  </java.lang.Class>
+</object-stream>
